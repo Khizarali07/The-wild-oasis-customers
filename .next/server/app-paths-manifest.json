@@ -1,0 +1,12 @@
+{
+  "/about/page": "app/about/page.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/cabins/page": "app/cabins/page.js",
+  "/account/reservations/page": "app/account/reservations/page.js",
+  "/account/profile/page": "app/account/profile/page.js",
+  "/account/reservations/edit/[bookingId]/page": "app/account/reservations/edit/[bookingId]/page.js",
+  "/account/page": "app/account/page.js"
+}
