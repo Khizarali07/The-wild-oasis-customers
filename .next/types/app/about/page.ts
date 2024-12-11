@@ -1,4 +1,4 @@
-// File: C:\Users\Dell\Desktop\The Wild Oasis (NEXT)\wild-oasis\app\about\page.js
+// File: C:\Users\Dell\Desktop\Assets\Projects\WEB Development\The Wild Oasis (NEXT)\wild-oasis\app\about\page.js
 import * as entry from '../../../../app/about/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

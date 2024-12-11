@@ -6,7 +6,7 @@ export default async function Navigation() {
 
   return (
     <nav className="z-10 text-xl">
-      <ul className="flex gap-16 items-center">
+      <ul className="flex gap-10 items-center">
         <li>
           <Link
             href="/cabins"
