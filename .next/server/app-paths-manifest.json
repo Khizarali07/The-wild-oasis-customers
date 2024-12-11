@@ -1,8 +1,3 @@
 {
-  "/page": "app/page.js",
-  "/cabins/page": "app/cabins/page.js",
-  "/about/page": "app/about/page.js",
-  "/cabins/[cabinId]/page": "app/cabins/[cabinId]/page.js",
-  "/not-found": "app/not-found.js",
-  "/login/page": "app/login/page.js"
+  "/account/page": "app/account/page.js"
 }

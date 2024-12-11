@@ -2,65 +2,53 @@
   "node": {
     "797c4f5fc80693b854d92ebd79a6e6264a7d8bb3": {
       "workers": {
-        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
-        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "rsc",
-        "app/cabins/[cabinId]/page": "action-browser"
+        "app/account/page": "action-browser"
       }
     },
     "9b217c891ca38a9c84482de40fb4a47307e03851": {
       "workers": {
-        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
-        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "rsc",
-        "app/cabins/[cabinId]/page": "action-browser"
+        "app/account/page": "action-browser"
       }
     },
     "cf55321a659f0842b6bcd849ca233ee269ea3537": {
       "workers": {
-        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
-        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "rsc",
-        "app/cabins/[cabinId]/page": "action-browser"
+        "app/account/page": "action-browser"
       }
     },
     "cf68b399a89ec332105e5e09e401ff8de2dcc23b": {
       "workers": {
-        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
-        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "rsc",
-        "app/cabins/[cabinId]/page": "action-browser"
+        "app/account/page": "action-browser"
       }
     },
     "ecc125025e211fe8522b28090c8bae817b2ed13f": {
       "workers": {
-        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
-        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "rsc",
-        "app/cabins/[cabinId]/page": "action-browser"
+        "app/account/page": "action-browser"
       }
     },
     "f04d5655bbfe84ad4461e44b027fc4a47f522e09": {
       "workers": {
-        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
-        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDell%5C%5CDesktop%5C%5CAssets%5C%5CProjects%5C%5CWEB%20Development%5C%5CThe%20Wild%20Oasis%20(NEXT)%5C%5Cwild-oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "rsc",
-        "app/cabins/[cabinId]/page": "action-browser"
+        "app/account/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "jCYir6NjCOTCv5y6Ed9ygfTNp0ab1vdXFNXnRASwsPw="
+  "encryptionKey": "+yQT7VYZGv9qbBovQ++ERLSEsynemaJLfIngCEoC+Qo="
 }

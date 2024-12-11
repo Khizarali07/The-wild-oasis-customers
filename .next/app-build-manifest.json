@@ -26,36 +26,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
     ],
-    "/cabins/page": [
+    "/account/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/cabins/page.js"
+      "static/chunks/app/account/page.js"
     ],
-    "/cabins/loading": [
+    "/account/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/cabins/loading.js"
+      "static/chunks/app/account/layout.js"
     ],
-    "/about/page": [
+    "/account/loading": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/about/page.js"
-    ],
-    "/login/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/login/page.js"
-    ],
-    "/cabins/[cabinId]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/cabins/[cabinId]/page.css",
-      "static/chunks/app/cabins/[cabinId]/page.js"
-    ],
-    "/cabins/[cabinId]/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/cabins/[cabinId]/not-found.js"
+      "static/chunks/app/account/loading.js"
     ]
   }
 }
