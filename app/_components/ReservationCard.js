@@ -34,7 +34,7 @@ function ReservationCard({ booking, onDelete }) {
         />
       </div>
 
-      <div className="flex-grow px-6 py-3 flex flex-col">
+      <div className="flex-grow md:px-6 py-3 flex flex-col">
         <div className="flex items-center justify-between">
           <h3 className="text-xl font-semibold">
             {numNights} nights in Cabin {name}
@@ -70,7 +70,7 @@ function ReservationCard({ booking, onDelete }) {
         </div>
       </div>
 
-      <div className="flex flex-col border-l border-primary-800 w-[100px]">
+      <div className="flex md:flex-col border-l border-primary-800 md:w-[100px]">
         {!isPast(startDate) ? (
           <>
             <Link
